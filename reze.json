@@ -1,0 +1,38 @@
+{
+    "intent": "Photorealistic documentation of a specific chalkboard art piece featuring a single anime character, capturing the ephemeral nature of the medium within a classroom context.",
+    "frame": {
+        "aspect_ratio": "4:3",
+        "composition": "A centered medium shot focusing on the chalkboard mural. The composition includes the teacher's desk in the immediate foreground to provide scale, with the artwork of the single character dominating the background space.",
+        "style_mode": "documentary_realism, texture-focused, ambient_naturalism"
+    },
+    "subject": {
+        "primary_subject": "A large-scale, intricate chalk drawing of Reze from Chainsaw Man – The Movie: Reze Arc, depicted in her signature outfit with detailed attention to facial features and costume elements.",
+        "visual_details": "Reze stands in a relaxed, slightly playful pose, positioned centrally on the board. Her short dark-green hair is rendered using layered dark chalk with subtle white accents to capture the sheen and volume. Her expression mixes gentleness and danger, with carefully shaded eyes and a faint, ambiguous smile. She wears her familiar school-uniform-inspired outfit: a white shirt with rolled sleeves (light gray and white chalk for folds), a black tie (dense dark chalk hatching), and a dark skirt with controlled shading to show movement. A thin line of red chalk traces the subtle collar bomb motif around her neck, blending into the chalk texture. Her left hand rests casually by her side while her right hand lightly touches her hair, suggesting a moment of disarming ease. Shading is created through visible hatching and cross-hatching to emphasize form, with soft smudging on the shirt and hair for blended texture.",
+        "medium_texture": "The dusty, matte quality of chalk is preserved throughout. Hair and clothing contours show clear chalk stroke direction. Smudged areas on the green slate indicate hand-blended tones, especially around the face, collar, and shirt folds."
+    },
+    "environment": {
+        "location": "A standard Japanese school classroom.",
+        "foreground_elements": "A wooden teacher's desk occupies the lower foreground. Scattered across the surface are a yellow box of colored chalks, loose sticks of red, white, and blue pastel chalk, and a dust-covered black felt eraser.",
+        "background_elements": "The green chalkboard spans the width of the frame, bordered by a metallic chalk tray containing accumulated chalk dust. The wall above is a plain, off-white plaster, featuring a small mounted speaker box.",
+        "atmosphere": "Quiet and academic, with a sense of stillness suggesting the room is currently unoccupied."
+    },
+    "lighting": {
+        "type": "Diffuse ambient classroom lighting.",
+        "quality": "Soft, nondirectional illumination from overhead fluorescent fixtures mixed with daylight from windows on the left. The light is even, preventing glare on the chalkboard while highlighting chalk texture.",
+        "color_temperature": "Neutral white (约5000K), ensuring accurate color rendition of Reze’s hair, uniform, and subtle red collar mark.",
+        "direction": "Overhead and slightly frontal."
+    },
+    "camera": {
+        "sensor_format": "35mm full-frame digital sensor",
+        "lens": "35mm prime lens",
+        "aperture": "f/5.6",
+        "depth_of_field": "Moderate depth of field, keeping the chalkboard drawing in sharp focus while allowing the foreground desk elements to soften slightly.",
+        "shutter_speed": "1/60s",
+        "iso": "400",
+        "camera_position": "Eye-level standing position, set back enough to frame the entire drawing and the desk."
+    },
+    "negative": {
+        "content": "Multiple characters, Midoriya, Shigaraki, male characters, digital art overlay, vector graphics, paper texture, oil painting, messy composition, extreme low angle, fisheye lens.",
+        "style": "No hyper-saturation, no soft focus filters, no heavy vignetting."
+    }
+}
